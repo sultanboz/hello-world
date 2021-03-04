@@ -3,4 +3,3 @@ just to try
 
 new try
 
-deneme2
